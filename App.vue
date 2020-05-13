@@ -14,8 +14,6 @@
 
 <style>
 	/*每个页面公共css */
-	@import './colorui/main.css';
-	/* 引入ColorUI全局样式 */
-	@import './colorui/icon.css';
-	/* 引入ColorUi全局Icon使用 */
+	@import "colorui/main.css";
+	@import "colorui/icon.css";
 </style>

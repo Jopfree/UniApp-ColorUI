@@ -1,6 +1,6 @@
 {
-    "name" : "UniApp+ColorUI结合模板",
-    "appid" : "__UNI__A1048A7",
+    "name" : "UniApp+ColorUI开发模板",
+    "appid" : "__UNI__094B311",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -59,8 +59,7 @@
     "mp-weixin" : {
         "appid" : "",
         "setting" : {
-            "urlCheck" : false,
-            "checkSiteMap" : false
+            "urlCheck" : false
         },
         "usingComponents" : true
     },
@@ -72,5 +71,8 @@
     },
     "mp-toutiao" : {
         "usingComponents" : true
+    },
+    "uniStatistics" : {
+        "enable" : false
     }
 }

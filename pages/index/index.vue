@@ -11,7 +11,7 @@
 	export default {
 		data() {
 			return {
-				title: '点击图标跳转页面测试'
+				title: 'Hello'
 			}
 		},
 		onLoad() {
