@@ -27,3 +27,8 @@ App.vue` 引入关键Css `main.css` `icon.css
 </style>
 ```
 
+### 运行uni-app
+
+1. 浏览器运行：进入hello-uniapp项目，点击工具栏的运行 -> 运行到浏览器 -> 选择浏览器，即可在浏览器里面体验uni-app 的 H5 版。
+
+   ![img](http://ww1.sinaimg.cn/large/006DFWgBgy1geqkluipxfj30di0520st.jpg)
